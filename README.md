@@ -1,18 +1,28 @@
-# MediConnect 🚑
+<p align="center">
+  <h1>MediConnect 🚑</h1>
+</p>
 
-[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://www.java.com/) 
-[![Spring Boot](https://img.shields.io/badge/SpringBoot-3.2-green?logo=spring)](https://spring.io/projects/spring-boot)
-[![MySQL](https://img.shields.io/badge/MySQL-8-blue?logo=mysql)](https://www.mysql.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+<p align="center">
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-17-blue?logo=java" alt="Java"></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SpringBoot-3.2-green?logo=spring" alt="Spring Boot"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-8-blue?logo=mysql" alt="MySQL"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="License"></a>
+</p>
 
 ---
 
-## 🌟 Overview
+<p align="center">
+  <h2>🌟 Overview</h2>
+</p>
+
 **MediConnect** is a **Spring Boot backend application** designed to seamlessly connect doctors and patients. It manages appointments, patient records, and doctor information efficiently, exposing everything via **RESTful APIs**. Perfect for healthcare management systems and easy frontend integration.  
 
 ---
 
-## 🛠️ Technologies
+<p align="center">
+  <h2>🛠️ Technologies</h2>
+</p>
+
 - **Java 17**
 - **Spring Boot 3**
 - **Spring Data JPA & Hibernate**
@@ -23,7 +33,10 @@
 
 ---
 
-## ⚡ Features
+<p align="center">
+  <h2>⚡ Features</h2>
+</p>
+
 - ✅ Register and manage doctors and patients  
 - ✅ Schedule, update, and track appointments  
 - ✅ Maintain patient medical records  
@@ -32,7 +45,9 @@
 
 ---
 
-## 💻 Getting Started
+<p align="center">
+  <h2>💻 Getting Started</h2>
+</p>
 
 ### Prerequisites
 - Java 17 or higher
